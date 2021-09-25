@@ -26,3 +26,15 @@ banana
 12
 1
 finish
+recipe
+Mimoza
+rus
+Fruit
+Banana
+1
+2
+Fruit
+orange
+12
+3
+finish
